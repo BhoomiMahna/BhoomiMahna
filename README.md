@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Mahna</h1>
 
-<h3 align="center">AI/ML Enthusiast | Deep Learning Learner | Backend Developer</h3>
+<h3 align="center">Data Structures & Algorithms | Machine Learning | Backend Learner</h3>
 
 ---
 
@@ -46,4 +46,8 @@
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/bhoomi-mahna-721061329/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomi%20Mahna-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhoomi-mahna-721061329/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-BhoomiMahna-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/BhoomiMahna/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-bmahna85-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bmahna85/)
