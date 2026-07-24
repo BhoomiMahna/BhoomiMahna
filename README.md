@@ -50,4 +50,4 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-BhoomiMahna-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/BhoomiMahna/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-bmahna85-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bmahna85/)
+
