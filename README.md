@@ -5,7 +5,11 @@
 ---
 <p align="center">
   <a href="https://img2num.dev/events/hacktoberfest-2026/">
-    <img src="https://img2num.dev/img/events/hacktoberfest-2026/badge.svg" alt="Img2Num contributor — Hacktoberfest 2026" />
+    <img 
+      src="https://img2num.dev/img/events/hacktoberfest-2026/badge.svg"
+      alt="Img2Num Hacktoberfest 2026 Contributor"
+      width="180"
+    />
   </a>
 </p>
 
