@@ -3,6 +3,11 @@
 <h3 align="center">Data Structures & Algorithms | Machine Learning | Backend Learner</h3>
 
 ---
+<p align="center">
+  <a href="https://img2num.dev/events/hacktoberfest-2026/">
+    <img src="https://img2num.dev/img/events/hacktoberfest-2026/badge.svg" alt="Img2Num contributor — Hacktoberfest 2026" />
+  </a>
+</p>
 
 ## 🚀 About Me
 
